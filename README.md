@@ -1,3 +1,3 @@
 # CSV Handler
 
-The CSV files handler
+A simple CSV files reader/writer
